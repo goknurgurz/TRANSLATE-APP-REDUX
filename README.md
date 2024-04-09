@@ -10,7 +10,7 @@ It is a very useful tool for understanding texts in different languages and tran
 # API
 RapidAPI: APIs used for language translation in the project are integrated via RapidAPI.
 
-- https://rapidapi.com/dickyagustin/api/text-translator2/
+- https://google-translator9.p.rapidapi.com/v2/
 
 # SCREEN GIF
 ![tr](https://github.com/goknurgurz/TRANSLATE-APP-REDUX/assets/142411104/0b9309bc-4de5-4a02-9b1a-947ff19afbd4)
