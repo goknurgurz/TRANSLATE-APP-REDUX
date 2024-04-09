@@ -13,3 +13,4 @@ RapidAPI: APIs used for language translation in the project are integrated via R
 - https://rapidapi.com/dickyagustin/api/text-translator2/
 
 # SCREEN GIF
+![tr](https://github.com/goknurgurz/TRANSLATE-APP-REDUX/assets/142411104/0b9309bc-4de5-4a02-9b1a-947ff19afbd4)
